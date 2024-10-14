@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1039A29-3E21-4B48-8111-E837E20B2194}|MaquinaCafe.Tests\\MaquinaCafe.Tests..csproj|c:\\users\\usuario\\onedrive\\desktop\\introducion a la ingenieria\\maquinacafe.tests\\maquinacafe.tests\\maquinacafetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1039A29-3E21-4B48-8111-E837E20B2194}|MaquinaCafe.Tests\\MaquinaCafe.Tests..csproj|solutionrelative:maquinacafe.tests\\maquinacafetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AE6999-F440-48C9-A1E6-905090380B8C}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\usuario\\onedrive\\desktop\\introducion a la ingenieria\\maquinacafe.tests\\maquinacafe\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AE6999-F440-48C9-A1E6-905090380B8C}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AE6999-F440-48C9-A1E6-905090380B8C}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\usuario\\onedrive\\desktop\\introducion a la ingenieria\\maquinacafe.tests\\maquinacafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AE6999-F440-48C9-A1E6-905090380B8C}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaquinaCafeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe.Tests\\MaquinaCafeTests.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe.Tests\\MaquinaCafeTests.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe.Tests\\MaquinaCafeTests.cs",
+              "RelativeToolTip": "MaquinaCafe.Tests\\MaquinaCafeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:24:08.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaquinaCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe\\MaquinaCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\MaquinaCafe.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe\\MaquinaCafe.cs",
+              "RelativeToolTip": "MaquinaCafe\\MaquinaCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:03:55.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe\\Program.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\introducion a la ingenieria\\MaquinaCafe.Tests\\MaquinaCafe\\Program.cs",
+              "RelativeToolTip": "MaquinaCafe\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:01:09.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
